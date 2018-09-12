@@ -18,7 +18,7 @@ To report bugs or make feature requests, file an issue on GitHub. Please choose 
 All major releases and important announcements are sent to TrustNote’s official twitter account @TrustNote and Telegram group t.me/TrustNote. We recommend that you follow our twitter account or join the Telegram group if you depend on TrustNote in any way.
 
 ### Development Roadmap
-The Roadmap summarizes plans for upcoming additions to TrustNote.
+The [Roadmap](https://github.com/TrustNoteDocs/community-committee/blob/master/ROADMAP.md) summarizes plans for upcoming additions to TrustNote.
 
 ### Social Media
 For news and updates from around the universe of TrustNote project, follow @TrustNote on Twitter.
