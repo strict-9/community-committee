@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# TrustNote Code of Conduct
 
 ## Our Pledge
 
@@ -31,6 +31,10 @@ Examples of unacceptable behavior by participants include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+All TrustNote forums and spaces are meant for professional interactions, and 
+any behavior which could reasonably be considered inappropriate in a professional 
+setting is unacceptable.
+
 ## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable
@@ -45,21 +49,26 @@ threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+This Code of Conduct applies to all contents on trustnote.org, TrustNote’s GitHub 
+repositories, or any other official TrustNote web/social presence allowing for 
+community interactions, as well as at all official TrustNote events, whether 
+offline or online.
+
+The Code of Conduct also applies within project spaces and in public spaces 
+whenever an individual is representing TrustNote or its community. Examples of 
+representing a project or community include using an official project e-mail 
+address, posting via an official social media account, or acting as an appointed 
+or de facto representative at an online or offline event.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+reported by contacting TrustNote's project stewards: Bob Lu (bob@trustnote.org) and
+Sunny Liu (sunny.liu@trustnote.org). All complaints will be reviewed and investigated 
+and will result in a response that is deemed necessary and appropriate to the 
+circumstances. The project team is obligated to maintain confidentiality with regard 
+to the reporter of an incident. Further details of specific enforcement policies may 
+be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
