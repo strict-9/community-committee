@@ -9,6 +9,7 @@ To ask or answer technical questions about TrustNote, use [Reddit](https://www.r
 To report bugs or make feature requests, file an issue on GitHub. Please choose the appropriate repository for the project. Major repositories include:
 
 [TrustNote Wallet](https://github.com/trustnote/trustnote-wallet)
+
 [TrustNote Common](https://github.com/trustnote/trustnote-common)
 
 
