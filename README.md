@@ -21,13 +21,13 @@ All major releases and important announcements are sent to TrustNote’s officia
 The Roadmap summarizes plans for upcoming additions to TrustNote.
 
 ### Social Media
-For news and updates from around the universe of TensorFlow projects, follow @TrustNote on Twitter.
+For news and updates from around the universe of TrustNote project, follow @TrustNote on Twitter.
 
 ### Blog
 We post regularly to the TrustNote [Blog](https://medium.com/trustnote), with content from the TrustNote team and the best articles from the community.
 
 ### YouTube
-Our YouTube Channel focuses on develop tokenized applications with TrustNote. 
+Our [YouTube](https://www.youtube.com/channel/UC03XGfRQzVBxYHCdPUJgt6w) Channel focuses on develop tokenized applications with TrustNote. 
 
 
 ## Contributing To TrustNote
