@@ -1,5 +1,5 @@
 # Community
-Welcome to the TrustNote community! This page explains where to get help, and different ways to be part of the community. We are committed to fostering an open and welcoming environment, and request that you review our code of conduct.
+Welcome to the TrustNote community! This page explains where to get help, and different ways to be part of the community. We are committed to fostering an open and welcoming environment, and request that you review our [code of conduct](https://github.com/TrustNoteDocs/community-committee-/blob/master/CODE_OF_CONDUCT.md).
 
 ## Get Help
 ### Technical Questions
