@@ -1,5 +1,5 @@
 # Community
-Welcome to the TrustNote community! This page explains where to get help, and different ways to be part of the community. We are committed to fostering an open and welcoming environment, and request that you review our [code of conduct](https://github.com/TrustNoteDocs/community-committee-/blob/master/CODE_OF_CONDUCT.md).
+Welcome to the TrustNote community! This page explains where to get help, and different ways to be part of the community. We are committed to fostering an open and welcoming environment, and request that you review our [code of conduct](https://github.com/TrustNoteDocs/community-committee/blob/master/CODE_OF_CONDUCT.md).
 
 ## Get Help
 ### Technical Questions
@@ -31,7 +31,7 @@ Our [YouTube](https://www.youtube.com/channel/UC03XGfRQzVBxYHCdPUJgt6w) Channel 
 
 
 ## Contributing To TrustNote
-We welcome contributions and collaboration on TrustNote. For more information, please read Contributing to TrustNote.
+We welcome contributions and collaboration on TrustNote. For more information, please read [Contributing to TrustNote](https://github.com/TrustNoteDocs/community-committee/blob/master/CONTRIBUTING.md).
 
 *Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 3.0 License, and code samples are licensed under the MIT License.*
 
