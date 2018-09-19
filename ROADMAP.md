@@ -22,7 +22,7 @@ Popular tasks like token issuance, management and mining are provided as a servi
 Start with technical architecture and consensus mechanism optimization, we will further improves performance and security of TrustNote, adding features to enable more use cases.
 
 #### Performance Goal:
-To support 5,000 transactions per second in stage 1, and support 20,000 transactions per second in stage 2. This will be achievable by optimizing ledger data storage, unit verification mechanism, main chain stabilizing algorithm etc.
+To support 5,000 transactions per second in stage I, and support 20,000 transactions per second in stage II. This will be achievable by optimizing ledger data storage, unit verification mechanism, main chain stabilizing algorithm etc.
 
 #### New Features:
 - Mining Support
@@ -49,7 +49,7 @@ To accommodate both quality and speed of development, we decide to support 2 var
 **Official Wallet** – maintained by core developers, focus on providing a smaller set of features but offers a fast, stable, and user-friendly wallet that everyone can use.
 
 **Community Wallet** – maintained by TrustNote developers community, focus on new feature development including:
-- Multiple crypto-currencies support
+- Multiple Crypto-Currencies Support
 - Wallet SDK
 - In-App Browsers (enabling web based blockchain apps and DApps)
 
